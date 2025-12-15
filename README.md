@@ -1,7 +1,7 @@
 # Hello, World Collector 🌍
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![GitHub last commit](https://github.com/h1z1qqe/hhh/tree/main))
+[GitHub last commit](https://img.shields.io/github/last-commit/your-username/hello-world-collector)
 
 **Коллекция культовой программы на всех возможных языках программирования.** От классики до эзотерики — каждый найдет здесь свой первый "Hello, World!".
 
